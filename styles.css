@@ -1,0 +1,13 @@
+h1,
+h3 {
+	font-family: 'Lexend Deca', sans-serif;
+	text-align: center;
+}
+
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+	border-image-width: 50px;
+}
